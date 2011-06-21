@@ -1,1 +1,11 @@
-Soon...
+The HiveMind format must be like this:
+
+var info = ({
+"target": "http://www.example.com/",
+"msg": "MSG"
+})
+
+You can upload the file to pastebin.com or dropbox.com, for example.
+http://pastebin.com/raw.php?i=Hj5wXNaB
+
+If you edit the file all users connected to your HiveMind will change the options in ±10 sec.
