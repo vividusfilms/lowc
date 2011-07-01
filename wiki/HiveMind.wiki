@@ -3,8 +3,9 @@
 
 {{{
 var info = ({
-  "target": "http://www.example.com/",
-  "msg": "LOWC - Test tool"
+  "target": "http://www.example.com/", //Target URL (with "http://").
+  "msg": "LOWC - Test tool", //Append message.
+  "status": "stop" //Attack status ("start" or "stop").
 })
 }}}
 
